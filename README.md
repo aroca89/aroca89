@@ -4,7 +4,11 @@
 
 [![aroca-pa's 42 stats](https://badge42.vercel.app/api/v2/cl8o9dlhl00710gl7vus4qr8k/stats?cursusId=21&coalitionId=173)](https://github.com/JaeSeoKim/badge42)
 
+get_next_line: [![aroca-pa's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8o9dlhl00710gl7vus4qr8k/project/2843835)](https://github.com/JaeSeoKim/badge42)
+
 ft_printf: [![aroca-pa's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl8o9dlhl00710gl7vus4qr8k/project/2804665)](https://github.com/JaeSeoKim/badge42)
+
+Born2beroot: [![aroca-pa's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8o9dlhl00710gl7vus4qr8k/project/2837935)](https://github.com/JaeSeoKim/badge42)
 
 libft: [![aroca-pa's 42 Libft Score](https://badge42.vercel.app/api/v2/cl8o9dlhl00710gl7vus4qr8k/project/2802145)](https://github.com/JaeSeoKim/badge42)
 <!--
